@@ -1,0 +1,9 @@
+1 - Documentação do NPM
+npmjs.com
+
+
+2 - Documentação
+devdocs.io/npm/
+
+3- stack
+stackoverflow.com

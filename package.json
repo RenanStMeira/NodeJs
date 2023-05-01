@@ -1,0 +1,15 @@
+{
+  "name": "pergunta-resposta-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Pacote para testar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renan Meira",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^8.1.0"
+  }
+}
